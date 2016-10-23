@@ -2,7 +2,7 @@ body {
     background: linear-gradient(#4b237c,#ed3110, #ffeb6d);}
 #header {
     text-align: center;
-    padding: 10px;
+    padding: 0px;
     margin: 0px auto;
     width: 100%;
     background-color: black;}
