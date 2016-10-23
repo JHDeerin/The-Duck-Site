@@ -14,9 +14,9 @@ body {
     position: relative;
     top: -50px;}
 #textbackground {
+    background-image: url("../images/pumpkinPatch.jpg");
     margin: 10px auto;
     width: 100%;
-    background-image: url("../images/pumpkinPatch.jpg");
     }
 #aboutText {
     position: relative;
