@@ -1,7 +1,6 @@
 #header {
     background-color: rgb(35, 196, 236);
     background-image: url("../images/duckTile.png");
-    padding: 0px;
     margin: 0px auto 0px auto;
     width: 100%;
     height: 210px;
@@ -11,13 +10,12 @@
     text-shadow: 2px 2px 4px rgb(20, 20, 50);}
 
 #store {
-    padding: 0px;
     background-color: rgb(50, 50, 65);
     background-image: url("../images/bokeh-wallpaper.jpg");
-    margin: 0px auto 0px auto;
+    margin: 0px auto;
     width: 100%;
     height: 100%;
-}
+    overflow: hidden;}
 
 img.duckpic {
     float: left;
@@ -28,9 +26,11 @@ img.duckpic {
     width: 100%;
     min-width: 500px;
     max-width: 1200px;
-    margin: 0px auto 0px auto;
+    margin: 0px auto;
     border-spacing: 0;
-    color: rgb(3, 19, 50);}
+    color: rgb(3, 19, 50);
+    font-size: 1.2em;
+    overflow: hidden;}
 th {
     text-align: center;
     vertical-align: top;
@@ -54,7 +54,7 @@ td {
 p.duckname {
     display: inline;
     float: left;
-    padding: 0px;
+    padding: 5px;
     text-align: left;
     text-transform: uppercase;
     font-weight: bold;
