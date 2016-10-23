@@ -1,0 +1,7 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(230, 230, 230);
+    margin: 0;
+    min-width: 500px;
+    min-height: 700px;
+}

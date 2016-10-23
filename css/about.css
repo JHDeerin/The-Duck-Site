@@ -1,0 +1,34 @@
+body {
+    background: linear-gradient(#4b237c,#ed3110, #ffeb6d);}
+#header {
+    text-align: center;
+    padding: 10px;
+    margin: 0px auto;
+    width: 100%;
+    background-color: black;}
+#duckhands {
+    position: relative;
+    top: 0px;
+    right: 0px;}
+#bottomText {
+    position: relative;
+    top: -50px;}
+#textbackground {
+    margin: 10px auto;
+    width: 100%;
+    background-image: url("../images/pumpkinPatch.jpg");
+    }
+#aboutText {
+    position: relative;
+    padding: 10px;
+    margin: 10px auto;
+    max-width: 500px;
+    min-width: 200px;
+    background-color: rgba(50, 50, 50, 0.8);
+    color: rgb(247, 181, 60);}}
+#textTitle {
+    position: relative;
+    right: 50px;
+}
+ul {
+    list-style-image: url("../images/duckOutline_small.png");}
