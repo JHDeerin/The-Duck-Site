@@ -29,7 +29,6 @@ img.duckpic {
     margin: 0px auto;
     border-spacing: 0;
     color: rgb(3, 19, 50);
-    font-size: 1.2em;
     overflow: hidden;}
 th {
     text-align: center;
@@ -46,6 +45,7 @@ th {
 
 tr.nothead {
     background-color: rgba(149, 168, 216, 0.5);
+    font-size: 1.2em;
     /*text-shadow: 3px 2px 5px rgb(20, 20, 50);*/
 }
 td {
